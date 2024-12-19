@@ -20,7 +20,7 @@ pip install joblib numpy scikit-learn matplotlib
 #### Using Jupyter Notebook
 If you're working in Jupyter, use:
 ```bash
-pip install joblib numpy scikit-learn matplotlib
+!pip install joblib numpy scikit-learn matplotlib
 ```
 
 ## Presentation 📊
